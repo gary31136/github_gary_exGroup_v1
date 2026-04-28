@@ -25,6 +25,6 @@ null,
 {"id":23,"expanded":false,"name":"原住民家","order":10,"parentId":22,"scrollX":1216.5,"scrollY":676.5,"quick":false},
 {"id":24,"expanded":false,"name":"荷蘭人聚落","order":8,"parentId":22,"scrollX":928.5,"scrollY":525,"quick":false},
 {"id":25,"expanded":false,"name":"漢人聚落","order":9,"parentId":22,"scrollX":928.5,"scrollY":531,"quick":false},
-{"id":26,"expanded":true,"name":"第二關(new)","order":14,"parentId":12,"scrollX":841.7142857142857,"scrollY":1340.5714285714284,"quick":false},
+{"id":26,"expanded":true,"name":"第二關(new)","order":14,"parentId":12,"scrollX":1039.5,"scrollY":1359,"quick":false},
 {"id":27,"expanded":false,"name":"圖書館(new)","order":15,"parentId":12,"scrollX":841.7142857142857,"scrollY":545.1428571428571,"quick":false}
 ]
